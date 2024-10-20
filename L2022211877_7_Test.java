@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 
 public class L2022211877_7_Test {
-
+//你的测试类666 from zrz
     /*
      * 测试用例设计原则：
      * 1. 等价类划分原则：将输入划分为有效和无效的类，确保涵盖各种情况。
